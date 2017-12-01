@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 92b64c5fe7d9a63489755e4b2c741dde
+timeCreated: 1511647336
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Diavolo Nero
+  fontNames:
+  - Diavolo Nero
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
